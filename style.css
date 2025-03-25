@@ -74,3 +74,40 @@ footer > div {
     justify-content: center;
 }
 
+.inizio {
+    height: 80vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenitore {
+    width: 40%;
+    background-color: lightskyblue;
+    height: 35%;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenitore:hover {
+    background-color: rgb(220, 15, 15);
+    transition: 0.3s;
+}
+
+.cv {
+    display: flex;
+    justify-content: center;
+}
+
+.curriculum {
+    width: 80%;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.intestazione {
+    text-align: center;
+}
