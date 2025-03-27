@@ -45,6 +45,14 @@ li {
     display: none;
 }
 
+.menu{
+    cursor: pointer;
+}
+
+.menu-lista > ul > li {
+    text-align: center;
+}
+
 footer {
     height:  13vh;
     display: flex;
@@ -134,4 +142,18 @@ footer > div {
 
 a {
     text-decoration: none;
+}
+
+.bottone:hover{
+    background-color: rgb(241, 233, 1);
+    color: white;
+    border: 1px solid white;
+}
+
+.bonus{
+    height: 50vh;
+}
+
+html {
+    scroll-behavior: smooth;
 }
