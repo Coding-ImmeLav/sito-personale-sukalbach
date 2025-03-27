@@ -100,14 +100,38 @@ footer > div {
 .cv {
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .curriculum {
-    width: 80%;
+    width: 65%;
     padding: 20px;
     border: 1px solid black;
 }
 
 .intestazione {
     text-align: center;
+}
+
+.fascia-download {
+    background-color: rgb(241, 233, 1);
+    width: 100%;
+    height: 10vh;
+    margin-top: 3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottone{
+    background-color: white;
+    color: rgb(241, 233, 1);
+    font-family: "Boldonse";
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+a {
+    text-decoration: none;
 }
