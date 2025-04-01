@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background-color: cadetblue;
+    background-color: darkslategray;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -92,7 +92,7 @@ footer > div {
 
 .contenitore {
     width: 40%;
-    background-color: lightskyblue;
+    background-color: grey;
     height: 35%;
     margin: 30px;
     display: flex;
@@ -101,7 +101,7 @@ footer > div {
 }
 
 .contenitore:hover {
-    background-color: rgb(220, 15, 15);
+    background-color: blue;
     transition: 0.3s;
 }
 
