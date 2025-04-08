@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background-color: darkslategray;
+    background-color: darkorchid;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -14,7 +14,7 @@ header {
 }
 
 .hero {
-    background-color: cornflowerblue;
+    background-color: rosybrown;
     height: 92vh;
     display: flex;
     justify-content: center;
@@ -101,7 +101,7 @@ footer > div {
 }
 
 .contenitore:hover {
-    background-color: blue;
+    background-color: mistyrose;
     transition: 0.3s;
 }
 
