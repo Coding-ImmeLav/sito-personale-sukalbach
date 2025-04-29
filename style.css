@@ -123,7 +123,7 @@ footer > div {
 }
 
 .fascia-download {
-    background-color: rgb(241, 233, 1);
+    background-color: gray;
     width: 100%;
     height: 10vh;
     margin-top: 3vh;
@@ -134,7 +134,7 @@ footer > div {
 
 .bottone{
     background-color: white;
-    color: rgb(241, 233, 1);
+    color: gray;
     font-family: "Boldonse";
     padding: 10px 20px;
     border-radius: 15px;
@@ -145,7 +145,7 @@ a {
 }
 
 .bottone:hover{
-    background-color: rgb(241, 233, 1);
+    background-color: gray;
     color: white;
     border: 1px solid white;
 }
